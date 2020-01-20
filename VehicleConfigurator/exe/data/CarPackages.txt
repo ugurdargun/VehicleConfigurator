@@ -1,0 +1,20 @@
+Park Assistant*Bosch*2612
+Steering Assist*Bentley*2130
+Brake Assistant*Mercedes*2126
+Adaptive Cruise Control*Audi*2465
+3D View System*Nvidia*5911
+Theft Protection*Ford*1184
+Eco-Fuel*Shell Technology*757
+Dynamic Lighting*Hella*1344
+TV System*Bosch*2200
+Heated Seat/Wheel*Suzuki*1175
+Android System*Sony*1080
+SmartKey*Bmw*559
+Armored Body*Volvo*15508
+Surround Sound System*Sennheiser*1780
+Vehicle Tracking System*Porsche*934
+Voice Control*GM*770
+Wireless Charging*Volvo*270
+Lane Departure Warning*Wolksvagen*2107
+Ghost Screen*Audi*5330
+Gaming System*Sony*2660

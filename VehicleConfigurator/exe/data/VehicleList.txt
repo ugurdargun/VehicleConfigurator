@@ -1,0 +1,45 @@
+Car*Mercedes*G*355000
+Car*Mercedes*AMG GT*257000
+Car*Mercedes*E*175000
+Car*Audi*Q7*195000
+Car*Audi*R8*425000
+Car*Audi*A7*225000
+Car*Bmw*X6*214000
+Car*Bmw*M3*263000
+Car*Bmw*3 Series*72000
+Car*Volvo*XC90*106700
+Car*Volvo*S90*142300
+Car*Volvo*S60*70800
+Car*Honda*CR-V*83000
+Car*Honda*Nsx*121000
+Car*Honda*Civic*45400
+Car*Volkswagen*Tiguan*42200
+Car*Volkswagen*Arteon*61300
+Car*Volkswagen*Golf*30000
+Truck*Mercedes*Axor*215000
+Truck*Mercedes*Actros*160000
+Truck*Mercedes*Atego*110000
+Truck*Scania*S Series*205000
+Truck*Scania*P Series*150000
+Truck*Scania*R Series*100000
+Truck*Volvo*FH16*210000
+Truck*Volvo*FM*175000
+Truck*Volvo*FE*120000
+Truck*Man*TGX*180000
+Truck*Man*TGL*140000
+Truck*Man*TGS*95000
+Truck*Daf*XF*160000
+Truck*Daf*LF*102000
+Truck*Daf*CF*82500
+Bus*Mercedes*Tourismo*196000
+Bus*Mercedes*Travego*126000
+Bus*Mercedes*Conecto*98000
+Bus*Scania*Touring*135000
+Bus*Scania*Interlink*101000
+Bus*Scania*Citywide*80000
+Bus*Volvo*9700 Superior*190000
+Bus*Volvo*B11R*107000
+Bus*Volvo*Irizar*72000
+Bus*Man*Lions*158000
+Bus*Man*Fortuna*113000
+Bus*Man*S2000*68750
