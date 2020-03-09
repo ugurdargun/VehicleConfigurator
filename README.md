@@ -7,4 +7,4 @@ It is all about building your own vehicle. The user can
 select some components of Car, Truck or Bus for different brands, which s/he is willing to
 purchase, such as engine, wheels, color or etc.
 #
-- **To Run** -> (\exe\VehicleConfigurator.exe) or (\dist\VehicleConfigurator.jar)
+- **To Run** -> (\dist\VehicleConfigurator.jar) or (\exe\VehicleConfigurator.exe)
